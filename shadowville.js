@@ -154,6 +154,8 @@ const fetchAllBeats = async () => {
 	console.log('Collecting links...');
 	let producerLinks = await collectProducerLinks(25);
 
+	// The "all beats" feed has a 500-page limit, and there are more than 500 pages' worth of beats.
+	// Crawl the "all beats" feed for every beat producer's page, then grab all beats from each producer.
 	const beats = [];
 	for (const [index, link] of producerLinks.entries()) {
 		console.log(`Fetching beats from ${link} (${index + 1}/${producerLinks.length})`);
