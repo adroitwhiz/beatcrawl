@@ -32,7 +32,8 @@ const beatFetches = {
 
 			return results;
 		})
-	})
+	}),
+	'blackrose': crawlBeatstars('174557', 'musician')
 }
 
 const fetchMap = [];
