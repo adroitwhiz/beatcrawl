@@ -39,6 +39,18 @@ const crawlSoundginePage = (results, fromIndex, memberID, soundgineSettings) => 
 						break;
 					}
 					case 'dfp': {
+						// There are two URLs here, 'dfp' and 'demo'.
+						// 'demo' only works if the Referer header (IIRC) is properly set, while 'dfp' always works.
+						// I'll let Soundgine's helpfully non-minified source code explain:
+						//
+						// if($(settings).find("PlaybackSecurity").text()=="0"){
+						//     audioPlayer.src='../euplayer/ap/mp3s/'+beats[id]['dfp'];
+						// }else{
+						//     audioPlayer.src='https://soundgine.com/play/?type=beat&data='+beats[id]['demo']+'.exe';
+						// }
+
+						// Hope you didn't pay extra for that "Playback Security!"
+
 						parsedBeat.fileUrl = encodeURI(`https://soundgine.com/@kustommike/euplayer/ap/mp3s/${attributeValue}`);
 					}
 					case 'genre': {
@@ -81,6 +93,12 @@ const crawlSoundgineSettings = memberID => {
 	});
 }
 
+/**
+ * This function takes the producer's "member ID". This can also be found as part of the iframe/widget embed URL.
+ * For instance, if the iframe's src is https://soundgine.com/@kustommike/hydra
+ * the member ID is "@kustommike".
+ * @param {string} memberID The Soundgine member ID, leading @ sign included.
+ */
 const crawlSoundgine = memberID => {
 	return crawlSoundgineSettings(memberID).then(settings => {
 		return crawlSoundginePage([], 0, memberID, settings);

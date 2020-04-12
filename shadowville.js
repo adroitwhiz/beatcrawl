@@ -147,6 +147,9 @@ const fetchProducerBeats = producerLink => {
 	})
 }
 
+/**
+ * This takes no input, and just fetches all beats from the entire Shadowville site, which is a janky mess of PHP.
+ */
 const fetchAllBeats = async () => {
 	console.log('Collecting links...');
 	let producerLinks = await collectProducerLinks(25);

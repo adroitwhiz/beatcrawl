@@ -16,6 +16,11 @@ const findTabableID = url => {
 	})
 }
 
+/**
+ * This crawl function takes the URL of the embedded Airbit widget's iframe.
+ * It should take the form "https://airbit.com/widgets/html5/..."
+ * @param {string} url The URL of the iframe widget embedded on the beat producer's page
+ */
 const crawlAirbit = url => {
 	return findTabableID(url).then(id => {
 		return fetch(`https://api.airbit.com/collections/${id}?expand=playlist,playlist.moods,playlist.tags`);

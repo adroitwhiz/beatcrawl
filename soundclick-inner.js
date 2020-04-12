@@ -31,6 +31,13 @@ const crawlSoundclickPage = (results, pageNumber, bandID) => {
 	});
 }
 
+/**
+ * This function takes the producer's "band ID".
+ * This one's real easy to find-- just look at the URL of the site, e.g.
+ * https://www.soundclick.com/artist/default.cfm?bandID=1240873
+ * No prizes for guessing the band ID there.
+ * @param {string} bandID The producer's "band ID".
+ */
 const crawlSoundclick = bandID => {
 	const results = [];
 	crawlSoundclickPage(results, 1, bandID).then(() => {
