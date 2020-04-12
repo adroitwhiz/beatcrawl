@@ -23,8 +23,8 @@ const fetchLinksFromPage = pageURL => {
 			pageCache.set(pageURL, links);
 			return links;
 		});
-	})
-}
+	});
+};
 
 const findNumPages = async () => {
 	let minPage = 1;
@@ -55,7 +55,7 @@ const findNumPages = async () => {
 		// probably incorrect
 		if (minPage === maxPage - 1) return minPage;
 	}
-}
+};
 
 const collectProducerLinks = async (batchSize) => {
 	const maxPageNum = await findNumPages();
@@ -78,7 +78,7 @@ const collectProducerLinks = async (batchSize) => {
 	}
 
 	return links;
-}
+};
 
 const fetchBeatPage = pageURL => {
 	return fetch(pageURL)
@@ -115,13 +115,13 @@ const fetchBeatPage = pageURL => {
 					moods: moods,
 					availableForPurchase: purchasable,
 					hasHook: beatName.includes('(With Hook)')
-				})
+				});
 			}
 		});
 
 		return beats;
-	})
-}
+	});
+};
 
 const fetchProducerBeats = producerLink => {
 	return fetch(producerLink)
@@ -144,8 +144,8 @@ const fetchProducerBeats = producerLink => {
 			logUpdate.done();
 			return pages.flat();
 		});
-	})
-}
+	});
+};
 
 /**
  * This takes no input, and just fetches all beats from the entire Shadowville site, which is a janky mess of PHP.
@@ -164,6 +164,6 @@ const fetchAllBeats = async () => {
 	}
 
 	return beats;
-}
+};
 
 module.exports = fetchAllBeats;

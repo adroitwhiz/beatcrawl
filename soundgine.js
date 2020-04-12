@@ -6,11 +6,11 @@ const fetchAsXML = url => {
 	return fetch(url)
 	.then(response => response.text())
 	.then(parseXML);
-}
+};
 
 const findChildElement = (element, childName) => {
 	return element.children.find(child => child.name === childName) || null;
-}
+};
 
 const crawlSoundginePage = (results, fromIndex, memberID, soundgineSettings) => {
 	return fetchAsXML(`https://soundgine.com/${memberID}/hydra/loadBeats.php?tid=0&index=${fromIndex}`)
@@ -52,6 +52,7 @@ const crawlSoundginePage = (results, fromIndex, memberID, soundgineSettings) => 
 						// Hope you didn't pay extra for that "Playback Security!"
 
 						parsedBeat.fileUrl = encodeURI(`https://soundgine.com/@kustommike/euplayer/ap/mp3s/${attributeValue}`);
+						break;
 					}
 					case 'genre': {
 						if (attributeValue !== '') parsedBeat.genres = attributeValue.split(',').map(text => text.trim());
@@ -80,8 +81,8 @@ const crawlSoundginePage = (results, fromIndex, memberID, soundgineSettings) => 
 		}
 
 		return crawlSoundginePage(results, fromIndex + numBeatsParsed, memberID, soundgineSettings);
-	})
-}
+	});
+};
 
 const crawlSoundgineSettings = memberID => {
 	return fetchAsXML(`https://soundgine.com/${memberID}/hydra/settings.php`)
@@ -91,7 +92,7 @@ const crawlSoundgineSettings = memberID => {
 		const numTracks = Number(findChildElement(xml.children[0], 'TotalTracks').children[0].children[0].text);
 		return {artist: artistElement.children[0].text, numTracks: numTracks};
 	});
-}
+};
 
 /**
  * This function takes the producer's "member ID". This can also be found as part of the iframe/widget embed URL.
@@ -103,6 +104,6 @@ const crawlSoundgine = memberID => {
 	return crawlSoundgineSettings(memberID).then(settings => {
 		return crawlSoundginePage([], 0, memberID, settings);
 	});
-}
+};
 
 module.exports = crawlSoundgine;

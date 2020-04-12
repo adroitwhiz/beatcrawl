@@ -44,14 +44,14 @@ const crawlBeatstars = (id, idType) => {
 				producers: [details.musician.display_name],
 				availableForPurchase: !(details.title.includes('*SOLD*') || details.availability.status !== 'ACTIVE'),
 				hasHook: details.type === 'BEAT WITH CHORUS'
-			}
+			};
 
 			if (details.genre) beat.genres = details.genre.map(genre => genre.name);
 			if (details.bpm) beat.bpm = details.bpm;
 
 			return beat;
 		});
-	})
-}
+	});
+};
 
 module.exports = crawlBeatstars;

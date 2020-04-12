@@ -13,8 +13,8 @@ const findTabableID = url => {
 		if (!beatsTab) throw new Error('No beats tab');
 
 		return beatsTab.tabable_id;
-	})
-}
+	});
+};
 
 /**
  * This crawl function takes the URL of the embedded Airbit widget's iframe.
@@ -38,9 +38,9 @@ const crawlAirbit = url => {
 				producers: [details.user.name],
 				genres: [details.genre.name],
 				moods: details.moods.map(mood => titleCase(mood.name))
-			}
-		})
+			};
+		});
 	});
-}
+};
 
 module.exports = crawlAirbit;

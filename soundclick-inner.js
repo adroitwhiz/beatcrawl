@@ -29,7 +29,7 @@ const crawlSoundclickPage = (results, pageNumber, bandID) => {
 		if (numValidNodes > 0) return crawlSoundclickPage(results, pageNumber + 1, bandID);
 		return results;
 	});
-}
+};
 
 /**
  * This function takes the producer's "band ID".
@@ -43,6 +43,6 @@ const crawlSoundclick = bandID => {
 	crawlSoundclickPage(results, 1, bandID).then(() => {
 		fs.writeFile('soundclick-results.json', JSON.stringify(results));
 	});
-}
+};
 
 crawlSoundclick(process.argv[2]);

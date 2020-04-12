@@ -10,6 +10,7 @@ const crawlSoundclick = bandID => {
 		child_process.exec(`node --http-parser=legacy soundclick-inner.js ${bandID}`, (error, stdout, stderr) => {
 			if (error !== null) reject(error);
 			if (stdout) console.log(stdout);
+			if (stderr) console.error(stderr);
 			resolve();
 		});
 	}).then(() => {
@@ -17,6 +18,6 @@ const crawlSoundclick = bandID => {
 	}).then(contents => {
 		return fs.unlink('soundclick-results.json').then(() => JSON.parse(contents));
 	});
-}
+};
 
 module.exports = crawlSoundclick;
