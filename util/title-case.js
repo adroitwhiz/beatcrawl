@@ -11,6 +11,6 @@ const titleCase = str => {
 		}
 		return characters.join('');
 	}).join(' ');
-}
+};
 
 module.exports = titleCase;
