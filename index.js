@@ -30,8 +30,6 @@ const beatFetches = {
 			const legacyResults = JSON.parse(contents);
 			for (const legacyBeat of legacyResults) {
 				if (!results.some(beat => beat.name.toLowerCase() === legacyBeat.name.toLowerCase())) {
-					// some legacy beats don't have the producers set properly
-					legacyBeat.producers = ['Kustom'];
 					results.push(legacyBeat);
 				}
 			}

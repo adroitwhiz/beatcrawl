@@ -11,7 +11,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pivx",
@@ -25,7 +28,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Guppy",
@@ -38,7 +44,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Finkley",
@@ -51,7 +60,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Decred",
@@ -64,7 +76,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rays Hit",
@@ -77,7 +92,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tarmack",
@@ -91,7 +109,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Flappy Bird",
@@ -105,7 +126,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Alpha2",
@@ -119,7 +143,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mad Ness",
@@ -133,7 +160,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "HBD",
@@ -147,7 +177,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Xystic",
@@ -161,7 +194,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Live It Up",
@@ -175,9 +211,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,exciting",
+			"Powerful",
+			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Never Sea",
@@ -191,7 +231,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fractions",
@@ -204,7 +247,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Atoms",
@@ -218,7 +264,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Send Me Vox",
@@ -232,7 +281,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Miami1",
@@ -246,7 +298,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "CSF",
@@ -260,7 +315,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Damn2",
@@ -274,7 +332,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kids4ever",
@@ -288,7 +349,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Saywhen",
@@ -303,7 +367,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sonora2",
@@ -317,7 +384,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tronx",
@@ -330,7 +400,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chia Boo",
@@ -343,7 +416,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nexion",
@@ -357,7 +433,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Midder",
@@ -371,7 +450,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Oh Loli Loli",
@@ -385,7 +467,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Been Waited",
@@ -399,7 +484,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Voicefalls",
@@ -413,7 +501,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Work U Out",
@@ -427,7 +518,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Phlamez",
@@ -441,7 +535,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Havarti",
@@ -455,7 +552,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Skycap",
@@ -469,7 +569,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Whateva Bae",
@@ -483,7 +586,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dizzy",
@@ -496,7 +602,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Holato",
@@ -509,7 +618,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Awfaze",
@@ -523,7 +635,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Its Nuthin",
@@ -536,7 +651,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Y Not",
@@ -549,7 +667,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Slidin",
@@ -562,7 +683,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "PumPum",
@@ -576,7 +700,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Niquid",
@@ -590,7 +717,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Drunk n Ratchet",
@@ -603,7 +733,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Niche Doe",
@@ -617,7 +750,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Clinikal",
@@ -631,7 +767,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Strain K",
@@ -645,7 +784,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Keyz Now",
@@ -659,7 +801,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kapitano",
@@ -672,7 +817,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Got Work",
@@ -685,7 +833,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Trumpet Shaker",
@@ -698,7 +849,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hold That",
@@ -712,7 +866,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Handicap",
@@ -726,7 +883,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Da Box",
@@ -740,7 +900,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hypkno",
@@ -754,7 +917,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Blappa",
@@ -767,7 +933,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Lynch",
@@ -780,7 +949,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Helix",
@@ -794,7 +966,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Noix",
@@ -808,7 +983,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gave Ya",
@@ -821,7 +999,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sticky",
@@ -834,7 +1015,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fat Kid",
@@ -847,7 +1031,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Birdie Shot",
@@ -860,7 +1047,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "More Bounce",
@@ -873,7 +1063,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gourmet Ratchet",
@@ -886,7 +1079,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Out Here",
@@ -899,7 +1095,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ya Prollem",
@@ -912,7 +1111,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "FSE",
@@ -926,7 +1128,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Murda",
@@ -940,7 +1145,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "In The Behind",
@@ -953,7 +1161,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Have A Party",
@@ -966,7 +1177,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Droppin Heat",
@@ -980,7 +1194,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "E Hole",
@@ -993,7 +1210,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Confused",
@@ -1007,7 +1227,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Inklusive",
@@ -1020,7 +1243,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Danjrus",
@@ -1033,7 +1259,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Modough",
@@ -1047,7 +1276,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stunna",
@@ -1060,7 +1292,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bouquet",
@@ -1073,7 +1308,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Yeddie",
@@ -1087,7 +1325,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Alcohol",
@@ -1100,7 +1341,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Don Clappa",
@@ -1113,7 +1357,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Followers",
@@ -1127,7 +1374,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bleezy",
@@ -1140,7 +1390,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Big Ump",
@@ -1154,7 +1407,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Get Smack",
@@ -1168,7 +1424,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Surfboard",
@@ -1181,7 +1440,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Laura",
@@ -1194,7 +1456,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "They Seeya",
@@ -1208,7 +1473,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ride Out",
@@ -1221,7 +1489,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chatow",
@@ -1234,7 +1505,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Numb",
@@ -1248,7 +1522,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Reality Bite",
@@ -1261,7 +1538,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Journality",
@@ -1275,7 +1555,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bholak Uke",
@@ -1288,7 +1571,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Start It Up",
@@ -1301,7 +1587,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "DoVoo",
@@ -1315,7 +1604,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Partial Tenant",
@@ -1328,7 +1620,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Give Some",
@@ -1341,7 +1636,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "We Got It",
@@ -1355,7 +1653,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crunch Time",
@@ -1369,7 +1670,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bitz Frank",
@@ -1383,7 +1687,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tracko",
@@ -1396,7 +1703,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Abstruse",
@@ -1411,7 +1721,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pushes",
@@ -1425,7 +1738,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jerk",
@@ -1438,7 +1754,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Celler Hat",
@@ -1452,7 +1771,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Notha Planet",
@@ -1465,7 +1787,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Made To Ball",
@@ -1479,7 +1804,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bring It On",
@@ -1493,7 +1821,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Next 2 Nothin",
@@ -1507,7 +1838,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Make It Clap",
@@ -1521,7 +1855,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ashtray",
@@ -1535,7 +1872,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Binary Dream",
@@ -1549,7 +1889,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fantastic",
@@ -1563,7 +1906,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gemini",
@@ -1577,7 +1923,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Popcorn",
@@ -1590,7 +1939,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Knott",
@@ -1603,7 +1955,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cursor",
@@ -1617,7 +1972,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Lo Ranger",
@@ -1631,7 +1989,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Third Hand",
@@ -1645,7 +2006,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "I Could Like That",
@@ -1659,7 +2023,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Polaris",
@@ -1673,7 +2040,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Imprex",
@@ -1688,7 +2058,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Patience",
@@ -1702,7 +2075,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Exclay",
@@ -1715,7 +2091,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jaxon",
@@ -1728,7 +2107,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tinuum",
@@ -1742,7 +2124,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Psylum",
@@ -1755,7 +2140,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dig The Feeling",
@@ -1768,7 +2156,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ballsy",
@@ -1782,7 +2173,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Robojab",
@@ -1796,7 +2190,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Maniac",
@@ -1810,7 +2207,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Freakout w Hook",
@@ -1824,7 +2224,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Not Again",
@@ -1838,7 +2241,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "On The Don",
@@ -1852,7 +2258,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Krayater",
@@ -1866,7 +2275,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Epique",
@@ -1880,7 +2292,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dotti",
@@ -1894,7 +2309,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ballin Hard",
@@ -1908,7 +2326,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "To The Sky",
@@ -1921,7 +2342,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hiya Fiya",
@@ -1935,7 +2359,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Donald",
@@ -1949,7 +2376,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Flinch",
@@ -1962,7 +2392,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wildin",
@@ -1975,7 +2408,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Six Shot",
@@ -1989,7 +2425,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Brosquare",
@@ -2002,7 +2441,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Avalanche",
@@ -2016,7 +2458,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tackpot",
@@ -2030,7 +2475,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Double Out",
@@ -2043,7 +2491,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Up 2 you",
@@ -2056,7 +2507,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Take A Hit",
@@ -2069,9 +2523,13 @@
 		],
 		"moods": [
 			"Exciting",
-			"Energetic,unknown",
+			"Energetic",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fcuk Somebody",
@@ -2085,7 +2543,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Phinally",
@@ -2099,7 +2560,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fingerprints",
@@ -2113,9 +2577,13 @@
 		],
 		"moods": [
 			"Aggressive",
-			"Angry,epic",
+			"Angry",
+			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Seminal",
@@ -2129,9 +2597,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,unknown",
+			"Powerful",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Basket Kase",
@@ -2146,7 +2618,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Turn To Me",
@@ -2159,7 +2634,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Thanks",
@@ -2173,7 +2651,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tezos",
@@ -2186,7 +2667,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stratis",
@@ -2200,7 +2684,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Funfair",
@@ -2215,7 +2702,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Civic",
@@ -2229,7 +2719,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ark",
@@ -2243,7 +2736,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rattler",
@@ -2257,7 +2753,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Iyali",
@@ -2271,7 +2770,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Vivaldi Wasnt",
@@ -2285,7 +2787,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Runaway",
@@ -2299,7 +2804,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Carlossi",
@@ -2312,7 +2820,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Black Adams",
@@ -2326,7 +2837,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "LAM",
@@ -2340,7 +2854,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Loaded",
@@ -2353,7 +2870,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Spoken",
@@ -2366,7 +2886,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Abalon",
@@ -2380,7 +2903,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Furman",
@@ -2394,7 +2920,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Later Tho",
@@ -2408,7 +2937,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "WMR",
@@ -2421,7 +2953,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bim Bim",
@@ -2435,7 +2970,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Starr",
@@ -2449,7 +2987,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Killball",
@@ -2463,7 +3004,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Midnyte",
@@ -2477,7 +3021,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sittinhere",
@@ -2491,7 +3038,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Call The News",
@@ -2504,7 +3054,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mageon",
@@ -2518,7 +3071,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Half It",
@@ -2532,7 +3088,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rimbay",
@@ -2546,7 +3105,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mountains",
@@ -2560,7 +3122,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Javu",
@@ -2573,7 +3138,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Amplicity",
@@ -2586,7 +3154,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "4 Later",
@@ -2600,7 +3171,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "U Alone",
@@ -2614,7 +3188,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bitches n Hoes",
@@ -2627,7 +3204,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rotea",
@@ -2641,7 +3221,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crysta",
@@ -2655,7 +3238,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Space Mode",
@@ -2669,7 +3255,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Renhoo",
@@ -2682,7 +3271,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Meltid",
@@ -2695,7 +3287,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Luxury",
@@ -2709,7 +3304,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Remain There",
@@ -2723,7 +3321,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rudabega",
@@ -2737,7 +3338,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "B Low no vox",
@@ -2750,7 +3354,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wanna B Low",
@@ -2763,7 +3370,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mostly Wanted",
@@ -2777,7 +3387,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Voixun",
@@ -2791,7 +3404,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cry Out Now",
@@ -2804,7 +3420,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Once Ring",
@@ -2818,7 +3437,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Malleteer",
@@ -2831,7 +3453,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Soup Kitchen",
@@ -2845,7 +3470,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sum1ne",
@@ -2859,7 +3487,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Vibeshi",
@@ -2873,7 +3504,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kidsos",
@@ -2886,7 +3520,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sky Remedy",
@@ -2900,7 +3537,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "LITE",
@@ -2914,7 +3554,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dat Snare",
@@ -2928,7 +3571,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wizard",
@@ -2941,7 +3587,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Brazzlik",
@@ -2954,7 +3603,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sackery",
@@ -2968,7 +3620,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Seduced",
@@ -2982,7 +3637,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Clamour",
@@ -2996,7 +3654,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gamble",
@@ -3010,7 +3671,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dimeon",
@@ -3024,7 +3688,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hissy Fit",
@@ -3038,7 +3705,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Before I Go",
@@ -3051,7 +3721,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "A Love Story",
@@ -3065,7 +3738,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Camofire",
@@ -3079,7 +3755,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Grinnin Bairet",
@@ -3093,7 +3772,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Atom Bomb",
@@ -3107,7 +3789,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Real Mad",
@@ -3121,7 +3806,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Just You",
@@ -3135,7 +3823,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Panko",
@@ -3148,7 +3839,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "2wice",
@@ -3161,7 +3855,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Goldia",
@@ -3175,7 +3872,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pencilo",
@@ -3188,7 +3888,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Treat em Right",
@@ -3202,7 +3905,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Vetden",
@@ -3215,7 +3921,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bastille",
@@ -3228,7 +3937,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Humida",
@@ -3242,7 +3954,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Arms Control",
@@ -3256,7 +3971,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chamaedorea",
@@ -3270,7 +3988,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Janson",
@@ -3284,7 +4005,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Enuff",
@@ -3298,7 +4022,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Message Received",
@@ -3311,7 +4038,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jump Ready",
@@ -3325,7 +4055,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chime In",
@@ -3340,7 +4073,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dining Out",
@@ -3354,7 +4090,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sleep Over",
@@ -3368,7 +4107,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Faces",
@@ -3381,7 +4123,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Masterful",
@@ -3394,7 +4139,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Outball",
@@ -3407,7 +4155,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Meritab",
@@ -3420,7 +4171,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nivali",
@@ -3434,7 +4188,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hometown Glory",
@@ -3448,7 +4205,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Madame Blue",
@@ -3462,7 +4222,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gated Child",
@@ -3477,7 +4240,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Defeated",
@@ -3491,7 +4257,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Other Ways",
@@ -3505,7 +4274,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Moshae",
@@ -3519,7 +4291,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Paramore",
@@ -3533,7 +4308,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nothin Bad",
@@ -3546,7 +4324,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Living Purpose",
@@ -3560,7 +4341,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Combi",
@@ -3573,7 +4357,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tunimax",
@@ -3586,7 +4373,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Shining",
@@ -3599,7 +4389,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Saturine",
@@ -3612,7 +4405,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kuff",
@@ -3626,7 +4422,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Everi",
@@ -3639,7 +4438,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Menage",
@@ -3653,7 +4455,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Breadround",
@@ -3666,7 +4471,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "A-Team",
@@ -3680,7 +4488,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Unframed",
@@ -3694,7 +4505,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Keyvision",
@@ -3707,7 +4521,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Itchy",
@@ -3720,7 +4537,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Peggi",
@@ -3734,7 +4554,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Morphi",
@@ -3747,7 +4570,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Makers",
@@ -3761,7 +4587,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chazer",
@@ -3775,7 +4604,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wentworth",
@@ -3788,9 +4620,13 @@
 		],
 		"moods": [
 			"Unknown",
-			"Other,uplifting",
+			"Other",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Piece Of Me",
@@ -3803,7 +4639,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Servicci",
@@ -3816,7 +4655,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sweeper",
@@ -3829,7 +4671,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Spixor",
@@ -3843,7 +4688,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Roda",
@@ -3856,7 +4704,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Alydrop",
@@ -3869,7 +4720,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Happening",
@@ -3881,9 +4735,13 @@
 		],
 		"moods": [
 			"Melancholy",
-			"Sorrow,smooth",
+			"Sorrow",
+			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Faces",
@@ -3896,7 +4754,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Talkbox",
@@ -3909,9 +4770,13 @@
 		],
 		"moods": [
 			"Smooth",
-			"Calm,unknown",
+			"Calm",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Estray",
@@ -3924,9 +4789,13 @@
 		],
 		"moods": [
 			"Melancholy",
-			"Sorrow,unknown",
+			"Sorrow",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Boot Drunk",
@@ -3939,9 +4808,13 @@
 		],
 		"moods": [
 			"Melancholy",
-			"Sorrow,smooth",
+			"Sorrow",
+			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Restbay",
@@ -3954,9 +4827,13 @@
 		],
 		"moods": [
 			"Smooth",
-			"Calm,unknown",
+			"Calm",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Yayagain",
@@ -3970,7 +4847,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Well Night",
@@ -3985,7 +4865,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stampot",
@@ -3998,9 +4881,13 @@
 		],
 		"moods": [
 			"Aggressive",
-			"Angry,unknown",
+			"Angry",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Beads",
@@ -4014,7 +4901,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Froze",
@@ -4027,9 +4917,13 @@
 		],
 		"moods": [
 			"Melancholy",
-			"Sorrow,smooth",
+			"Sorrow",
+			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "To The Sky",
@@ -4042,7 +4936,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cado",
@@ -4055,7 +4952,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ruff Irons",
@@ -4068,7 +4968,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Good Thing",
@@ -4082,7 +4985,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Suffer Den",
@@ -4096,7 +5002,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Seanix",
@@ -4110,7 +5019,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Alpha1",
@@ -4124,7 +5036,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kimbra",
@@ -4137,7 +5052,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Butter",
@@ -4151,7 +5069,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Warwittem",
@@ -4164,7 +5085,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Weirder Things",
@@ -4178,7 +5102,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Deathlight",
@@ -4192,7 +5119,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bawzz",
@@ -4206,7 +5136,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "They Deep",
@@ -4220,7 +5153,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tulips",
@@ -4234,7 +5170,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Koala2",
@@ -4247,7 +5186,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Koala",
@@ -4260,7 +5202,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Axena",
@@ -4274,7 +5219,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kiingone",
@@ -4287,9 +5235,13 @@
 		],
 		"moods": [
 			"Aggressive",
-			"Angry,epic",
+			"Angry",
+			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ballys",
@@ -4303,7 +5255,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Exhale They",
@@ -4316,9 +5271,13 @@
 		],
 		"moods": [
 			"Melancholy",
-			"Sorrow,scary",
+			"Sorrow",
+			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "HI Life",
@@ -4332,7 +5291,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Drill",
@@ -4345,7 +5307,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stage",
@@ -4359,7 +5324,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Burn Lie",
@@ -4373,7 +5341,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Trappass",
@@ -4387,7 +5358,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Where Was He",
@@ -4401,7 +5375,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Time Fly",
@@ -4415,7 +5392,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Purp Brasso",
@@ -4429,7 +5409,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Downshire",
@@ -4443,7 +5426,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Flipzim",
@@ -4457,7 +5443,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "9mg",
@@ -4471,7 +5460,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dont U Dare",
@@ -4485,7 +5477,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Been Ready",
@@ -4499,7 +5494,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "OG Water",
@@ -4513,7 +5511,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Whole Fitted",
@@ -4526,7 +5527,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Living A Lie",
@@ -4540,7 +5544,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Its Ova",
@@ -4554,7 +5561,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Double Jackpot",
@@ -4567,7 +5577,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "ThirtyFour",
@@ -4581,7 +5594,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wait A Min",
@@ -4595,7 +5611,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Edgar",
@@ -4609,7 +5628,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Money Voice",
@@ -4622,7 +5644,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nuke (battle beat)",
@@ -4636,7 +5661,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nuke Lunch",
@@ -4649,7 +5677,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Blanc Aqua",
@@ -4663,7 +5694,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Time Wild",
@@ -4677,7 +5711,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tanks n Shit",
@@ -4691,7 +5728,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Anger",
@@ -4705,7 +5745,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Torch Pit",
@@ -4719,7 +5762,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Here Goes Nothin",
@@ -4732,7 +5778,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Docta Con",
@@ -4746,7 +5795,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Boecta",
@@ -4760,7 +5812,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ork Xylo",
@@ -4774,7 +5829,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bake Another Cake",
@@ -4788,7 +5846,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Moercor",
@@ -4802,7 +5863,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Whatever She Like (w hook)",
@@ -4816,7 +5880,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Roman Notes",
@@ -4830,7 +5897,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Onax",
@@ -4844,7 +5914,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Raptor",
@@ -4855,7 +5928,10 @@
 			"Dirty South",
 			"Trap"
 		],
-		"moods": null
+		"moods": null,
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Muffler",
@@ -4869,7 +5945,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Maestrap",
@@ -4883,7 +5962,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chips N Dip",
@@ -4897,7 +5979,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mozam",
@@ -4911,7 +5996,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Diva Elohim",
@@ -4925,7 +6013,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sayz It All",
@@ -4939,7 +6030,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kacka Lacki",
@@ -4953,7 +6047,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Unison",
@@ -4967,7 +6064,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Focked Up",
@@ -4981,7 +6081,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Neros",
@@ -4995,7 +6098,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "All These",
@@ -5009,7 +6115,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Barsick",
@@ -5023,7 +6132,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Parker",
@@ -5037,7 +6149,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Noxwall",
@@ -5051,7 +6166,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Offear",
@@ -5065,7 +6183,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bumper",
@@ -5079,7 +6200,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hypershock",
@@ -5093,7 +6217,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "301",
@@ -5107,7 +6234,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Flyin Solo",
@@ -5121,7 +6251,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Turn It Up",
@@ -5135,7 +6268,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sudden Death",
@@ -5148,7 +6284,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pusher8",
@@ -5162,7 +6301,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Got It Made",
@@ -5176,7 +6318,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "For A Week",
@@ -5190,7 +6335,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Toburn",
@@ -5204,7 +6352,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Trap Acid",
@@ -5218,7 +6369,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ratikop",
@@ -5232,7 +6386,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Perrigo",
@@ -5246,7 +6403,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hex",
@@ -5259,9 +6419,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,unknown",
+			"Powerful",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tunnel",
@@ -5275,7 +6439,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Red Bail",
@@ -5289,7 +6456,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Iconic",
@@ -5302,9 +6472,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,unknown",
+			"Powerful",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dorsio",
@@ -5318,7 +6492,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bianco",
@@ -5331,9 +6508,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,unknown",
+			"Powerful",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Melon",
@@ -5344,7 +6525,10 @@
 			"Dance",
 			"Old School"
 		],
-		"moods": null
+		"moods": null,
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Turnaround",
@@ -5358,7 +6542,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Springz",
@@ -5372,7 +6559,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Broken Clock",
@@ -5386,7 +6576,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tighten",
@@ -5400,7 +6593,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wall Dive",
@@ -5414,7 +6610,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Territory",
@@ -5428,7 +6627,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Donkey Call",
@@ -5442,7 +6644,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "8uzzed",
@@ -5456,7 +6661,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Red Windows",
@@ -5470,7 +6678,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tonik Saw",
@@ -5483,7 +6694,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pollen Dust",
@@ -5497,7 +6711,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fight Over",
@@ -5511,7 +6728,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Soft Luck",
@@ -5525,7 +6745,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Blue Fire",
@@ -5539,7 +6762,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Excitin",
@@ -5553,7 +6779,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "B4 The AM",
@@ -5568,7 +6797,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Upvotes drums only",
@@ -5582,7 +6814,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fresh Squaa",
@@ -5596,7 +6831,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Traces",
@@ -5610,7 +6848,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rihnasti",
@@ -5624,7 +6865,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Soled Out",
@@ -5638,7 +6882,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Astro",
@@ -5652,7 +6899,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Vacay 2 U",
@@ -5666,7 +6916,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Glaciers",
@@ -5680,7 +6933,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fambera",
@@ -5694,7 +6950,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Enthusia",
@@ -5708,7 +6967,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Turah",
@@ -5722,7 +6984,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Motna",
@@ -5736,7 +7001,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Front",
@@ -5750,7 +7018,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Centerboy",
@@ -5764,7 +7035,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Shortly",
@@ -5778,7 +7052,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "On Way Own",
@@ -5792,9 +7069,13 @@
 		],
 		"moods": [
 			"Exciting",
-			"Energetic,melancholy",
+			"Energetic",
+			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crowdu",
@@ -5807,7 +7088,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bowboa",
@@ -5821,7 +7105,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jinpasa",
@@ -5836,7 +7123,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Majesta",
@@ -5850,7 +7140,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Way About It",
@@ -5863,9 +7156,13 @@
 		],
 		"moods": [
 			"Exciting",
-			"Energetic,unknown",
+			"Energetic",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "DOM",
@@ -5879,7 +7176,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "House Away",
@@ -5893,7 +7193,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Half A Heart",
@@ -5908,7 +7211,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Closer",
@@ -5923,7 +7229,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Body Talk",
@@ -5938,7 +7247,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Meccraw",
@@ -5952,7 +7264,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nighten Stay",
@@ -5966,7 +7281,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "3 Done",
@@ -5980,7 +7298,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Is This Right",
@@ -5994,7 +7315,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "First Prize",
@@ -6009,7 +7333,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cavernous",
@@ -6023,7 +7350,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cleansax",
@@ -6037,7 +7367,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gentlemen",
@@ -6050,9 +7383,13 @@
 		],
 		"moods": [
 			"Exciting",
-			"Energetic,uplifting",
+			"Energetic",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bangafong",
@@ -6066,7 +7403,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hackkman",
@@ -6080,7 +7420,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sirene",
@@ -6094,7 +7437,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Afterglow",
@@ -6106,7 +7452,10 @@
 			"Electro",
 			"House"
 		],
-		"moods": null
+		"moods": null,
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kortana",
@@ -6120,7 +7469,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Million Dollar Diva",
@@ -6135,7 +7487,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Blackowl",
@@ -6149,7 +7504,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Xella",
@@ -6163,7 +7521,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Live It All",
@@ -6177,7 +7538,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Marsas Bed",
@@ -6191,7 +7555,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dutch Killa",
@@ -6205,7 +7572,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Porto Wah",
@@ -6219,7 +7589,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jamma",
@@ -6234,7 +7607,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Beach Party",
@@ -6248,7 +7624,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Batallion",
@@ -6262,7 +7641,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stareye",
@@ -6277,7 +7659,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tomdogz",
@@ -6291,7 +7676,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Miro",
@@ -6305,7 +7693,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "NRG",
@@ -6319,7 +7710,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Northern Lights",
@@ -6333,7 +7727,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Brilliant",
@@ -6348,7 +7745,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Signal",
@@ -6362,7 +7762,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Matekz",
@@ -6377,7 +7780,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Quackaroo",
@@ -6391,7 +7797,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wumbo",
@@ -6405,7 +7814,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "All Of Us",
@@ -6420,7 +7832,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nusko",
@@ -6435,7 +7850,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Get A Gun (edm mix)",
@@ -6450,7 +7868,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dekan",
@@ -6465,7 +7886,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ricardo",
@@ -6479,7 +7903,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Drive Insane",
@@ -6494,7 +7921,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Spine and Hill",
@@ -6508,7 +7938,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Up Up and Away",
@@ -6523,7 +7956,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Party Machine",
@@ -6538,7 +7974,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Creature",
@@ -6552,7 +7991,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Damage Inc",
@@ -6567,7 +8009,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bonafide",
@@ -6578,7 +8023,10 @@
 			"Dance",
 			"Pop"
 		],
-		"moods": null
+		"moods": null,
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Filthy Shot",
@@ -6593,7 +8041,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sage",
@@ -6608,7 +8059,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Griffin",
@@ -6623,7 +8077,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "History",
@@ -6638,7 +8095,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Freakout (no hook)",
@@ -6653,7 +8113,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fire Starter",
@@ -6668,7 +8131,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fantasy",
@@ -6683,7 +8149,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Drift",
@@ -6698,7 +8167,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Drawing",
@@ -6713,7 +8185,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Spyke",
@@ -6727,7 +8202,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Lazy Riddim",
@@ -6741,7 +8219,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ta Head",
@@ -6755,7 +8236,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Paint The Sky",
@@ -6768,9 +8252,13 @@
 		],
 		"moods": [
 			"Exciting",
-			"Energetic,uplifting",
+			"Energetic",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dirty Ghost",
@@ -6784,7 +8272,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Famous",
@@ -6798,7 +8289,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Buzzy",
@@ -6812,7 +8306,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Melissa",
@@ -6826,7 +8323,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chesapeak",
@@ -6841,7 +8341,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Shaper7",
@@ -6855,7 +8358,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Can You",
@@ -6869,7 +8375,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Barally",
@@ -6883,7 +8392,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Puck",
@@ -6897,7 +8409,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fetzer",
@@ -6911,7 +8426,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stilletaire",
@@ -6924,9 +8442,13 @@
 		],
 		"moods": [
 			"Unknown",
-			"Other,uplifting",
+			"Other",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Silent Blue",
@@ -6940,7 +8462,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Magnite",
@@ -6954,7 +8479,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Envino",
@@ -6968,7 +8496,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Endurance",
@@ -6982,7 +8513,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Vensa",
@@ -6995,9 +8529,13 @@
 		],
 		"moods": [
 			"Exciting",
-			"Energetic,uplifting",
+			"Energetic",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stop and Go",
@@ -7011,7 +8549,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Junokey",
@@ -7026,7 +8567,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Thistle",
@@ -7040,7 +8584,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Stargo",
@@ -7054,7 +8601,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Notora",
@@ -7068,7 +8618,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nytempo",
@@ -7081,9 +8634,13 @@
 		],
 		"moods": [
 			"Aggressive",
-			"Angry,exciting",
+			"Angry",
+			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Empirates",
@@ -7096,7 +8653,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Guest List",
@@ -7109,7 +8669,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Aug Gosp",
@@ -7122,7 +8685,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Private View",
@@ -7136,7 +8702,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sprout",
@@ -7149,7 +8718,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pure Oil",
@@ -7163,7 +8735,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Lawd Knows",
@@ -7176,7 +8751,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Receipt Paper",
@@ -7189,7 +8767,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Forgeti",
@@ -7202,7 +8783,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Impeach",
@@ -7215,7 +8799,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Know You Will",
@@ -7228,7 +8815,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Down 4 That",
@@ -7241,7 +8831,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Doperide",
@@ -7254,7 +8847,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "8Ball Traffic",
@@ -7267,7 +8863,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Slacka Remix",
@@ -7281,7 +8880,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Purifae",
@@ -7295,7 +8897,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dustar",
@@ -7308,7 +8913,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Raise",
@@ -7321,7 +8929,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chain Reaction",
@@ -7334,7 +8945,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Demo This",
@@ -7348,7 +8962,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crank Bash",
@@ -7362,7 +8979,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Selfmade",
@@ -7375,7 +8995,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crush",
@@ -7389,7 +9012,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crossed The Line",
@@ -7402,7 +9028,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Promised Nothin",
@@ -7415,7 +9044,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tower Low",
@@ -7428,7 +9060,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Never Sewn",
@@ -7441,7 +9076,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Solace",
@@ -7455,7 +9093,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dyno",
@@ -7468,9 +9109,13 @@
 		],
 		"moods": [
 			"Smooth",
-			"Calm,unknown",
+			"Calm",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Curtsy",
@@ -7484,7 +9129,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bowtie",
@@ -7498,7 +9146,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crown Flower",
@@ -7512,7 +9163,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Good 4 Me",
@@ -7526,7 +9180,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Laydai",
@@ -7539,7 +9196,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Legenz",
@@ -7553,7 +9213,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Brood",
@@ -7567,7 +9230,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Philsum",
@@ -7581,7 +9247,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sapphirez",
@@ -7594,7 +9263,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Apple Bomb",
@@ -7607,7 +9279,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fringe Clip",
@@ -7621,7 +9296,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Protect Us",
@@ -7634,7 +9312,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Northern Lights 2",
@@ -7647,7 +9328,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Start It Up (drumstep)",
@@ -7661,7 +9345,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Harmella",
@@ -7674,7 +9361,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "We Been Through",
@@ -7687,7 +9377,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Keep Me On",
@@ -7700,7 +9393,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Heartache",
@@ -7713,7 +9409,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dirty Square",
@@ -7726,7 +9425,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Calling Dubstep Remix",
@@ -7739,7 +9441,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Molly Dubstep Remix",
@@ -7752,7 +9457,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Factor That",
@@ -7767,7 +9475,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Guirro",
@@ -7780,7 +9491,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Incubate",
@@ -7794,7 +9508,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Machismo",
@@ -7807,7 +9524,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Float",
@@ -7821,7 +9541,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Warbird",
@@ -7834,7 +9557,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Up In Flames",
@@ -7848,7 +9574,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Madena Bella",
@@ -7861,7 +9590,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wonder",
@@ -7874,7 +9606,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Vibro",
@@ -7888,7 +9623,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pongle",
@@ -7901,7 +9639,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Holland",
@@ -7915,7 +9656,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cube",
@@ -7929,7 +9673,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sooner The Better",
@@ -7943,7 +9690,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fukya",
@@ -7956,7 +9706,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Braxton",
@@ -7969,7 +9722,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Riddim Box",
@@ -7982,7 +9738,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Commin Wit It",
@@ -7995,7 +9754,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Black Swan",
@@ -8008,7 +9770,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sive",
@@ -8021,7 +9786,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hourglass",
@@ -8034,7 +9802,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Band Reject",
@@ -8047,7 +9818,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Criminal Dubstep",
@@ -8060,7 +9834,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pitchfork",
@@ -8073,7 +9850,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Salsawar",
@@ -8086,7 +9866,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Prodinous",
@@ -8099,7 +9882,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Synereo",
@@ -8112,7 +9898,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sunshower",
@@ -8125,7 +9914,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "One Time",
@@ -8138,7 +9930,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mizmar",
@@ -8152,7 +9947,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Love Without",
@@ -8166,7 +9964,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "DGB",
@@ -8180,7 +9981,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "APX",
@@ -8193,7 +9997,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mazenutt",
@@ -8207,7 +10014,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Limbosia",
@@ -8221,7 +10031,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Packing",
@@ -8235,7 +10048,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hay Fever",
@@ -8248,7 +10064,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Snuggin",
@@ -8261,7 +10080,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Uncounted",
@@ -8274,7 +10096,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Undergod",
@@ -8287,7 +10112,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Two Oak",
@@ -8301,7 +10129,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Regularly",
@@ -8314,7 +10145,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kleft",
@@ -8327,7 +10161,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cheese Grits",
@@ -8340,7 +10177,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Volfa",
@@ -8353,7 +10193,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Toms Here",
@@ -8366,7 +10209,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "C4ISR",
@@ -8380,7 +10226,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Useful",
@@ -8393,9 +10242,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,smooth",
+			"Powerful",
+			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rich Fuzz",
@@ -8409,7 +10262,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Now Finally",
@@ -8422,7 +10278,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Traffic Light",
@@ -8435,7 +10294,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Upvotes",
@@ -8449,7 +10311,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Acoustic PR",
@@ -8462,7 +10327,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Brand New",
@@ -8475,7 +10343,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Beach Gigs",
@@ -8487,9 +10358,13 @@
 		],
 		"moods": [
 			"Smooth",
-			"Calm,uplifting",
+			"Calm",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gitcha Cupz Up",
@@ -8503,7 +10378,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chocalho",
@@ -8516,7 +10394,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wave At It",
@@ -8530,7 +10411,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "White Shades",
@@ -8544,7 +10428,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nah Complain",
@@ -8558,7 +10445,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jennis",
@@ -8571,7 +10461,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "HKL2",
@@ -8585,7 +10478,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Black Stroke",
@@ -8598,7 +10494,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bewoki",
@@ -8612,7 +10511,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Odd Wish",
@@ -8626,7 +10528,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Seperate Wayz",
@@ -8640,7 +10545,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "SPL",
@@ -8654,7 +10562,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cry4no",
@@ -8667,7 +10578,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Possible Too",
@@ -8681,7 +10595,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dotpau",
@@ -8694,7 +10611,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Easy Go",
@@ -8707,7 +10627,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Teedle",
@@ -8720,7 +10643,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Unilad",
@@ -8733,7 +10659,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Xatch",
@@ -8746,7 +10675,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "SWUW",
@@ -8759,7 +10691,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pktoo",
@@ -8772,7 +10707,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cepia",
@@ -8786,7 +10724,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kindluv",
@@ -8799,7 +10740,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Could B Luv",
@@ -8812,7 +10756,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Noforn",
@@ -8826,7 +10773,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chalkboard",
@@ -8840,7 +10790,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dial Up",
@@ -8854,7 +10807,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Clapwash",
@@ -8868,7 +10824,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Just Wishin",
@@ -8881,7 +10840,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Odisee",
@@ -8894,7 +10856,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tonality",
@@ -8907,7 +10872,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Heaven Waits",
@@ -8921,7 +10889,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Forever Now",
@@ -8935,7 +10906,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Done 2 Me",
@@ -8949,7 +10923,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fornada",
@@ -8963,7 +10940,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Divinidad",
@@ -8977,7 +10957,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "975",
@@ -8991,7 +10974,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Good 2 Me",
@@ -9004,7 +10990,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Finder",
@@ -9017,7 +11006,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Closer Reggae",
@@ -9031,7 +11023,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "After You",
@@ -9045,7 +11040,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Pain Killa",
@@ -9059,7 +11057,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Summer Face",
@@ -9073,7 +11074,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Standing Tall",
@@ -9086,7 +11090,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Anxious",
@@ -9099,7 +11106,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Newzeer",
@@ -9110,7 +11120,10 @@
 			"Indie Rock",
 			"Pop"
 		],
-		"moods": null
+		"moods": null,
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cuttar",
@@ -9123,7 +11136,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Who Would U",
@@ -9137,7 +11153,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Indiette",
@@ -9150,7 +11169,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fairgame",
@@ -9164,7 +11186,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Barrels",
@@ -9177,7 +11202,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Levellan",
@@ -9191,7 +11219,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jeopar",
@@ -9204,7 +11235,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ghost Love",
@@ -9217,7 +11251,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "L8 Again",
@@ -9230,7 +11267,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Uppin Say",
@@ -9243,7 +11283,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Axis Y",
@@ -9257,7 +11300,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Loonies",
@@ -9271,7 +11317,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hi There",
@@ -9284,7 +11333,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Butler",
@@ -9298,7 +11350,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Nice Suit",
@@ -9311,7 +11366,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jiggy Rust",
@@ -9324,7 +11382,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "321 Take",
@@ -9337,7 +11398,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bastekka",
@@ -9350,7 +11414,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Instone",
@@ -9363,7 +11430,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Avoiding Me Down",
@@ -9376,7 +11446,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Not For Sale",
@@ -9389,7 +11462,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Minifit",
@@ -9402,7 +11478,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kawai",
@@ -9415,7 +11494,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Foot Kiss",
@@ -9428,7 +11510,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Feather Mine",
@@ -9441,7 +11526,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Escape",
@@ -9455,7 +11543,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Camello",
@@ -9469,7 +11560,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Click Here",
@@ -9482,7 +11576,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bat Shit Craycray",
@@ -9495,7 +11592,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Barigas",
@@ -9509,7 +11609,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Thats A Smash",
@@ -9522,7 +11625,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ribbon",
@@ -9535,7 +11641,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Aye Okay",
@@ -9548,7 +11657,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tapechild",
@@ -9561,7 +11673,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Raven",
@@ -9574,7 +11689,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Agogo",
@@ -9587,7 +11705,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Splash",
@@ -9600,7 +11721,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Born Again",
@@ -9613,7 +11737,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bad Enough",
@@ -9627,7 +11754,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Make Ya Look",
@@ -9640,7 +11770,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Waning Fear",
@@ -9654,7 +11787,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Heronite",
@@ -9667,7 +11803,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Long Whine",
@@ -9681,7 +11820,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Phanta",
@@ -9695,7 +11837,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Shortstop",
@@ -9708,7 +11853,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fire Away",
@@ -9721,7 +11869,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Glass Lion",
@@ -9735,7 +11886,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Wash",
@@ -9749,7 +11903,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Trajical",
@@ -9762,7 +11919,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Get A Gun",
@@ -9777,7 +11937,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Darkson",
@@ -9790,7 +11953,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "One Gone",
@@ -9803,7 +11969,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Read Aloud",
@@ -9816,7 +11985,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Crash Landing",
@@ -9829,7 +12001,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ring Away",
@@ -9844,7 +12019,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Reckon So",
@@ -9858,7 +12036,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Isle Wonder",
@@ -9873,7 +12054,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Girl Talk",
@@ -9886,7 +12070,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Finger Six",
@@ -9899,7 +12086,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "One Life to Love",
@@ -9914,7 +12104,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "For My Love",
@@ -9928,7 +12121,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Obsessed",
@@ -9942,7 +12138,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tapway",
@@ -9956,7 +12155,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Barracho",
@@ -9970,7 +12172,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rogo",
@@ -9983,7 +12188,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kompare",
@@ -9997,7 +12205,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Green Eyes",
@@ -10010,7 +12221,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jump City",
@@ -10024,7 +12238,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Tyralli",
@@ -10037,7 +12254,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Coursology",
@@ -10050,9 +12270,13 @@
 		],
 		"moods": [
 			"Unknown",
-			"Other,uplifting",
+			"Other",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Calling",
@@ -10066,9 +12290,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,uplifting",
+			"Powerful",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ripple",
@@ -10082,7 +12310,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Notes",
@@ -10095,7 +12326,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Matters",
@@ -10108,7 +12342,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sandsin",
@@ -10123,7 +12360,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jeans Off",
@@ -10136,7 +12376,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sunkone",
@@ -10149,7 +12392,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cello Salad",
@@ -10162,7 +12408,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Palm Hearts",
@@ -10175,7 +12424,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Neon Felt",
@@ -10188,7 +12440,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Captive",
@@ -10201,7 +12456,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "No Such Thing",
@@ -10215,7 +12473,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dons Rose",
@@ -10228,7 +12489,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rollacaan",
@@ -10242,7 +12506,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dunno Why",
@@ -10256,7 +12523,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dishonest",
@@ -10270,7 +12540,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Back 2 Me",
@@ -10283,7 +12556,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "DNA Bubbles",
@@ -10296,7 +12572,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Close My Eyes",
@@ -10311,7 +12590,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Slanded",
@@ -10324,7 +12606,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Movin Oz",
@@ -10337,7 +12622,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Candle Bath",
@@ -10350,7 +12638,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ur Supply",
@@ -10364,7 +12655,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Even My Odds Full",
@@ -10378,7 +12672,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Need Red",
@@ -10392,7 +12689,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Oleptics",
@@ -10406,7 +12706,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Half Day",
@@ -10419,7 +12722,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Cabana",
@@ -10432,7 +12738,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Voxina",
@@ -10446,7 +12755,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Acting Expression",
@@ -10459,7 +12771,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Night Gal",
@@ -10472,7 +12787,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Lionel",
@@ -10485,7 +12803,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Shadows",
@@ -10498,7 +12819,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sparkle Theory",
@@ -10511,7 +12835,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Missfog",
@@ -10524,7 +12851,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hills of Joy",
@@ -10537,7 +12867,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Personal",
@@ -10550,7 +12883,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fine Art",
@@ -10563,7 +12899,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Ductiv",
@@ -10576,7 +12915,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Daretta",
@@ -10589,7 +12931,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "About You",
@@ -10602,7 +12947,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sixotter",
@@ -10615,7 +12963,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Temple Sxx",
@@ -10628,10 +12979,15 @@
 		],
 		"moods": [
 			"Melancholy",
-			"Sorrow,smooth",
-			"Calm,unknown",
+			"Sorrow",
+			"Smooth",
+			"Calm",
+			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Deepend2",
@@ -10645,7 +13001,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Square Peg",
@@ -10659,7 +13018,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Aminor",
@@ -10673,7 +13035,10 @@
 		"moods": [
 			"Melancholy",
 			"Sorrow"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Hinda Bui",
@@ -10687,7 +13052,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "After You2",
@@ -10700,7 +13068,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Shock me",
@@ -10713,7 +13084,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bulletslot",
@@ -10726,7 +13100,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Get Me Back",
@@ -10740,7 +13117,10 @@
 		"moods": [
 			"Aggressive",
 			"Angry"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Fux Roller",
@@ -10754,7 +13134,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Zealousy",
@@ -10767,7 +13150,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Bastion",
@@ -10781,7 +13167,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Blush",
@@ -10794,7 +13183,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Free And",
@@ -10807,9 +13199,13 @@
 		],
 		"moods": [
 			"Unknown",
-			"Other,uplifting",
+			"Other",
+			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dinma",
@@ -10824,7 +13220,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Big Hair",
@@ -10838,7 +13237,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Piped Sink",
@@ -10852,7 +13254,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Eliption",
@@ -10865,7 +13270,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Divetomb",
@@ -10878,7 +13286,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Jacks Good",
@@ -10891,7 +13302,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Perfect (you are)",
@@ -10905,7 +13319,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Mother May I",
@@ -10918,7 +13335,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Rashus",
@@ -10932,7 +13352,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Sketch",
@@ -10946,7 +13369,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Skribe",
@@ -10960,7 +13386,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Huevo",
@@ -10973,7 +13402,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Chevere",
@@ -10986,7 +13418,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Kiracho",
@@ -10999,7 +13434,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Gabeset",
@@ -11012,7 +13450,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Coronado",
@@ -11025,7 +13466,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Plaza Suite",
@@ -11039,7 +13483,10 @@
 		"moods": [
 			"Uplifting",
 			"Happy"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Golem",
@@ -11053,7 +13500,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Meditate",
@@ -11066,7 +13516,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Scream",
@@ -11079,7 +13532,10 @@
 		"moods": [
 			"Epic",
 			"Powerful"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Judah",
@@ -11092,7 +13548,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Blue Fire Orch",
@@ -11106,7 +13565,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "DnR Club",
@@ -11119,7 +13581,10 @@
 		"moods": [
 			"Unknown",
 			"Other"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Dish Out",
@@ -11132,7 +13597,10 @@
 		"moods": [
 			"Exciting",
 			"Energetic"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Even My Odds Piano",
@@ -11146,7 +13614,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "A Love Story (piano version)",
@@ -11160,7 +13631,10 @@
 		"moods": [
 			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Prixm",
@@ -11174,7 +13648,10 @@
 		"moods": [
 			"Scary",
 			"Eerie"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Beautiful Danger",
@@ -11187,9 +13664,13 @@
 		],
 		"moods": [
 			"Epic",
-			"Powerful,smooth",
+			"Powerful",
+			"Smooth",
 			"Calm"
-		],"producers":["Kustom"]
+		],
+		"producers": [
+			"Kustom"
+		]
 	},
 	{
 		"name": "Forget About",
@@ -11202,6 +13683,9 @@
 		"moods": [
 			"Unknown",
 			"Other"
+		],
+		"producers": [
+			"Kustom"
 		]
 	}
 ]
