@@ -15,9 +15,6 @@ const crawlAirbit = async url => {
 	const userJS = responseText.match(/(ab\.user = )({.+?});/);
 	const user = JSON.parse(userJS[2]);
 
-	console.log(config);
-	// console.log(user);
-
 	const beats = JSON.parse(
 		await fetch(`https://api.airbit.com/users/${config.user_id}/beats?limit=5000&expand=moods,tags`)
 			.then(response => response.text())
