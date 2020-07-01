@@ -11,8 +11,6 @@
   "dependencies": {
     "@rgrove/parse-xml": "^2.0.1",
     "cheerio": "^1.0.0-rc.3",
-    "domhandler": "^3.0.0",
-    "htmlparser2": "^4.0.0",
     "log-update": "^3.3.0",
     "node-fetch": "^3.0.0-beta.7",
     "yargs-parser": "^18.1.3"

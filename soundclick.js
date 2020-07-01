@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
+const cheerio = require('cheerio');
 
-const parseAsHTML = require('./util/parse-as-html');
 const titleCase = require('./util/title-case');
 
 const crawlSoundclickPage = (results, pageNumber, bandID) => {
@@ -11,27 +11,26 @@ const crawlSoundclickPage = (results, pageNumber, bandID) => {
 		insecureHTTPParser: true
 	})
 	.then(response => response.text())
-	.then(parseAsHTML).then(domNodes => {
-		let numValidNodes = 0;
-		for (const node of domNodes) {
-			if (node.type !== 'tag' || node.name !== 'div') continue;
+	.then(responseText => {
+		const $ = cheerio.load(responseText);
+		const divs = $('div');
+		// we've reached the last page, and hence there are no more results
+		if (divs.length === 0) return results;
+
+		divs.each((index, elem) => {
+			elem = $(elem);
 			const result = {
-				name: titleCase(node.attribs['data-songtitle'].replace('*SOLD*', '').trim()),
+				name: titleCase(elem.attr('data-songtitle').replace('*SOLD*', '').trim()),
 				pageUrl: `https://www.soundclick.com/artist/default.cfm?bandID=${bandID}&content=songs`,
-				fileUrl: `https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=${node.attribs['data-songid']}`,
-				producers: [titleCase(node.attribs['data-bandname'])],
+				fileUrl: `https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=${elem.attr('data-songid')}`,
+				producers: [titleCase(elem.attr('data-bandname'))],
 				// May not work for bands other than Hollywood Legend
-				availableForPurchase: !node.attribs['data-songtitle'].includes('*SOLD*')
+				availableForPurchase: !elem.attr('data-songtitle').includes('*SOLD*')
 			};
-
 			results.push(result);
-			numValidNodes++;
-		}
-
+		});
 		// if we got any valid results, there are still more to be found
-		// if not, we're done
-		if (numValidNodes > 0) return crawlSoundclickPage(results, pageNumber + 1, bandID);
-		return results;
+		return crawlSoundclickPage(results, pageNumber + 1, bandID);
 	});
 };
 
