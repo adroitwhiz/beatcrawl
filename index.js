@@ -53,9 +53,11 @@ const beatFetches = {
 const fetchMap = [];
 for (const entry of Object.entries(beatFetches)) {
 	fetchMap.push(
-		entry[1].then(item => {
-			fs.writeFile(`dumps/${entry[0]}.json`, JSON.stringify(item, null, '\t'));
-		})
+		entry[1]
+			.then(item => {
+				fs.writeFile(`dumps/${entry[0]}.json`, JSON.stringify(item, null, '\t'));
+			})
+			.catch(console.error)
 	);
 }
 
