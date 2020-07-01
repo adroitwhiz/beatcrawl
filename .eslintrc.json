@@ -16,7 +16,8 @@
 		"no-trailing-spaces": "error",
 		"space-before-function-paren": ["error", "always"],
 		"no-constant-condition": ["error", { "checkLoops": false }],
-		"no-prototype-builtins": "off"
+		"no-prototype-builtins": "off",
+		"max-len": ["error", 120]
 	},
 	"overrides": [
 		{
