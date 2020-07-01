@@ -20,7 +20,7 @@ const beatFetches = {
 	'anywaywell': () => crawlBeatstars('201021', 'musician')
 		.then(results =>
 			results.map(beat => {
-				beat.name = beat.name.replace('(Buy 1 Get 3 Free)', '').trim();
+				beat.name = beat.name.replace(/\(Buy \d+ Get \d+ Free\)/, '').trim();
 				return beat;
 			})),
 	'kustom': () => crawlSoundgine('@kustommike').then(results => {
