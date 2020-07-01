@@ -7,7 +7,7 @@ const fs = require('fs').promises;
 // TODO: Incapsula may have gotten their stuff together since
 const crawlSoundclick = bandID => {
 	return new Promise((resolve, reject) => {
-		child_process.exec(`node --http-parser=legacy soundclick-inner.js ${bandID}`, (error, stdout, stderr) => {
+		child_process.exec(`node --insecure-http-parser soundclick-inner.js ${bandID}`, (error, stdout, stderr) => {
 			if (error !== null) reject(error);
 			if (stdout) console.log(stdout);
 			if (stderr) console.error(stderr);
