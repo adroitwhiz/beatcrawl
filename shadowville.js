@@ -124,6 +124,26 @@ const fetchBeatPage = pageURL => {
 	});
 };
 
+const queuePromises = (arr, numConcurrent) => {
+	const len = arr.length;
+	return new Promise(resolve => {
+		const completed = [];
+		let numCompleted = 0;
+		const startNextJob = () => {
+			const index = arr.length - 1;
+			return arr.pop()().then(result => {
+				completed[index] = result;
+			}).finally(() => {
+				if (++numCompleted === len) resolve(completed);
+				if (arr.length > 0) startNextJob();
+			});
+		};
+		for (let i = Math.min(len, numConcurrent); i >= 0; i--) {
+			startNextJob();
+		}
+	});
+};
+
 const fetchProducerBeats = producerLink => {
 	return fetch(producerLink)
 	.then(response => response.text())
@@ -132,19 +152,11 @@ const fetchProducerBeats = producerLink => {
 		const numPages = Number($('.pages').text().split(' of ')[1]);
 
 		const pagePromises = [];
-		let numLoaded = 0;
-
 		for (let i = 1; i <= numPages; i++) {
-			pagePromises.push(fetchBeatPage(producerLink + `page/${i}`).then(page => {
-				logUpdate(`${++numLoaded}/${numPages} pages loaded`);
-				return page;
-			}));
+			pagePromises.push(() => fetchBeatPage(producerLink + `page/${i}`));
 		}
 
-		return Promise.all(pagePromises).then(pages => {
-			logUpdate.done();
-			return pages.flat();
-		});
+		return pagePromises;
 	});
 };
 
@@ -164,9 +176,25 @@ const fetchAllBeats = async () => {
 	// The "all beats" feed has a 500-page limit, and there are more than 500 pages' worth of beats.
 	// Crawl the "all beats" feed for every beat producer's page, then grab all beats from each producer.
 	const beats = [];
+	const metapromises = [];
 	for (const [index, link] of producerLinks.entries()) {
-		console.log(`Fetching beats from ${link} (${index + 1}/${producerLinks.length})`);
-		const producerBeats = await fetchProducerBeats(link);
+		metapromises.push(() => {
+			console.log(`Fetching beats from ${link} (${index + 1}/${producerLinks.length})`);
+			return fetchProducerBeats(link);
+		});
+	}
+
+	const allPagePromises = (await queuePromises(metapromises, 5)).flat();
+
+	const numPages = allPagePromises.length;
+	let loadedPages = 0;
+
+	const pageResults = await queuePromises(allPagePromises.map(pagePromise => () => pagePromise().then(page => {
+		logUpdate(`${++loadedPages}/${numPages} pages loaded`);
+		return page;
+	})), 25);
+
+	for (const producerBeats of pageResults) {
 		for (const beat of producerBeats) {
 			beats.push(beat);
 		}
