@@ -1,6 +1,7 @@
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const logUpdate = require('log-update');
+const fs = require('fs').promises;
 
 const pageCache = new Map();
 const fetchLinksFromPage = pageURL => {
@@ -151,8 +152,14 @@ const fetchProducerBeats = producerLink => {
  * This takes no input, and just fetches all beats from the entire Shadowville site, which is a janky mess of PHP.
  */
 const fetchAllBeats = async () => {
-	console.log('Collecting links...');
-	let producerLinks = await collectProducerLinks(25);
+	let producerLinks;
+	try {
+		producerLinks = await fs.readFile('shadowville-producer-links.json', {encoding: 'utf-8'}).then(JSON.parse);
+	} catch (err) {
+		console.log('Collecting links...');
+		producerLinks = await collectProducerLinks(25);
+		await fs.writeFile('shadowville-producer-links.json', JSON.stringify(producerLinks, null, '\t'), {encoding: 'utf-8'});
+	}
 
 	// The "all beats" feed has a 500-page limit, and there are more than 500 pages' worth of beats.
 	// Crawl the "all beats" feed for every beat producer's page, then grab all beats from each producer.
